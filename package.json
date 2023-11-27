@@ -9,11 +9,16 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "glob": "^8.1.0",
     "vite": "^4.0.5"
   },
-  "author": "Oleksandr Novikov <nanov3578@gmail.com>",
-
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
   "dependencies": {
-    "validator": "^13.11.0"
+    "@vimeo/player": "^2.20.1",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.14.2",
+    "vite-plugin-full-reload": "^1.0.5",
+    "vite-plugin-html-inject": "^1.0.1"
   }
 }
