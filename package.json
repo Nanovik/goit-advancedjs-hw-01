@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.0.5",
+    "vite": "^4.0.5"
   },
   "author": "Oleksandr Novikov <nanov3578@gmail.com>",
 
